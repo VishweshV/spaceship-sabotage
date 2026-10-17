@@ -1,0 +1,7 @@
+# Maven build output
+target/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+.ai/mcp/
